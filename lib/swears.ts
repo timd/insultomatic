@@ -1,6 +1,6 @@
 import { copyFileSync } from 'fs';
-import prefixes from './pre_swears-2.json';
-import suffixes from './suff_swears-2.json';
+import prefixes from './pre_insults.json';
+import suffixes from './suff_insults.json';
 
 export function createInsult() {
   
